@@ -1,2 +1,2 @@
 # web-notes
-My website &amp; notes
+My website & notes
